@@ -94,3 +94,11 @@ echo "$@"
 #
 # ADD YOUR CODE BELOW:
 
+
+## Input Variables
+
+
+## Counting number of sequences in the file
+
+
+## Final line with total number of sequences across all files
