@@ -103,6 +103,6 @@ done
 
 
 ## Counting number of sequences in the file
-
+countseq1=`grep something -A 2 | wc -l #this will work eventually :)
 
 ## Final line with total number of sequences across all files
