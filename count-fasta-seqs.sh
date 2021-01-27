@@ -94,15 +94,16 @@ echo "$@"
 #
 # ADD YOUR CODE BELOW:
 
-for filepath in x
+for i in "$@"
 do 
 very smart programmer code
-done
-
-## Input Variables
 
 
 ## Counting number of sequences in the file
 countseq1=`grep something -A 2 | wc -l #this will work eventually :)
+
+
+done
+
 
 ## Final line with total number of sequences across all files
